@@ -60,6 +60,10 @@ void battleScene::render(HDC hdc)
 	
 }
 
+void battleScene::testenemys()
+{
+}
+
 
 
 

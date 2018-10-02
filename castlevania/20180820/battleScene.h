@@ -44,7 +44,7 @@ public:
 	virtual void update();
 	virtual void render(HDC hdc);
 
-	void checkCollision();
+	void testenemys();
 
 	inline void setIsScore(int* score) { m_pscore = score; }
 
